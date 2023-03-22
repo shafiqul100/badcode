@@ -9,6 +9,9 @@ public class MathService {
     public int subtract(int firstNumber, int secondNumber) {
         Integer myInt = null; 1
         Integer yourInt = myInt * 2;
+        Integer yourInt = myInt * 2;
+        Integer yourInt = myInt * 2;
+        Integer yourInt = myInt * 2;
         return firstNumber - secondNumber;
     }
 }
